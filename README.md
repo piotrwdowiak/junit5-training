@@ -30,3 +30,6 @@ public void testSomething() {
  // Test will fail if takes longer that 100 ms because of @Timeout annotation.
 }
 ```
+
+##Solution
+https://github.com/piotrwdowiak/junit5-training-solution
