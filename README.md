@@ -31,5 +31,5 @@ public void testSomething() {
 }
 ```
 
-##Solution
+## Solution
 https://github.com/piotrwdowiak/junit5-training-solution
